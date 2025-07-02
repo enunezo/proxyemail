@@ -1,0 +1,5 @@
+De: "Registro App" <no-reply@miapp.com>
+Para: usuario1@localhost
+Asunto: Tu código de verificación
+
+Hola! Tu código OTP es: 315420

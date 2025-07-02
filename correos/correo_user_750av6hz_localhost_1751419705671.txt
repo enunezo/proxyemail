@@ -1,0 +1,9 @@
+De: "Your App" <no-reply@yourapp.com>
+Para: user_750av6hz@localhost
+Asunto: Your Verification Code
+
+Hello!
+
+Your one-time password (OTP) is: 280827
+
+Use it to complete your registration.
